@@ -1,0 +1,3 @@
+:HL["/_next/static/chunks/0xv2s7a3p_a9d.css","style"]
+:HL["/nested-mark.svg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"publications","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"Yz_hn21ZSEXATb5t0K0Nl"}
